@@ -14,13 +14,8 @@ import "vue-slick-carousel/dist/vue-slick-carousel.css";
 import "vue-slick-carousel/dist/vue-slick-carousel-theme.css";
 
 export default {
-  data: function() {
-    return {};
-  },
-
+  
   components: { VueSlickCarousel },
-  mounted() {
-  }
 };
 </script>
 

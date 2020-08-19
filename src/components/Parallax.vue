@@ -8,10 +8,6 @@
 
 <script>
 export default {
-  data: function() {
-    return {
-    };
-  },
   
   beforeMount() {
     window.addEventListener("mousemove", function(event) {

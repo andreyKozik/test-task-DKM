@@ -38,7 +38,7 @@ export default {
         {
           name: "Email",
           value: "",
-          pattern: /(?=.*[@])^[a-zA-Z@0-9]{4,30}$/,
+          pattern: /(?=.*[@])^[a-zA-Z@0-9.]{4,30}$/,
           classDone: "",
           flagButtonActive: 0
         }
